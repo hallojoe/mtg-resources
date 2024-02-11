@@ -1,0 +1,2687 @@
+[
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553025&type=card",
+    "name": "Tribute to Horobi // Echo of Death's Wail",
+    "path": "553025-neo-tribute-to-horobi-echo-of-death-s-wail.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553026&type=card",
+    "name": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki",
+    "path": "553026-neo-fable-of-the-mirror-breaker-reflection-of-kiki-jiki.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553027&type=card",
+    "name": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki",
+    "path": "553027-neo-fable-of-the-mirror-breaker-reflection-of-kiki-jiki.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553028&type=card",
+    "name": "The Dragon-Kami Reborn // Dragon-Kami's Egg",
+    "path": "553028-neo-the-dragon-kami-reborn-dragon-kami-s-egg.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553029&type=card",
+    "name": "The Dragon-Kami Reborn // Dragon-Kami's Egg",
+    "path": "553029-neo-the-dragon-kami-reborn-dragon-kami-s-egg.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553030&type=card",
+    "name": "Jugan Defends the Temple // Remnant of the Rising Star",
+    "path": "553030-neo-jugan-defends-the-temple-remnant-of-the-rising-star.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553031&type=card",
+    "name": "Jugan Defends the Temple // Remnant of the Rising Star",
+    "path": "553031-neo-jugan-defends-the-temple-remnant-of-the-rising-star.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553032&type=card",
+    "name": "Teachings of the Kirin // Kirin-Touched Orochi",
+    "path": "553032-neo-teachings-of-the-kirin-kirin-touched-orochi.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553033&type=card",
+    "name": "Teachings of the Kirin // Kirin-Touched Orochi",
+    "path": "553033-neo-teachings-of-the-kirin-kirin-touched-orochi.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553034&type=card",
+    "name": "Hidetsugu Consumes All // Vessel of the All-Consuming",
+    "path": "553034-neo-hidetsugu-consumes-all-vessel-of-the-all-consuming.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553035&type=card",
+    "name": "Hidetsugu Consumes All // Vessel of the All-Consuming",
+    "path": "553035-neo-hidetsugu-consumes-all-vessel-of-the-all-consuming.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553036&type=card",
+    "name": "The Kami War // O-Kagachi Made Manifest",
+    "path": "553036-neo-the-kami-war-o-kagachi-made-manifest.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553037&type=card",
+    "name": "The Kami War // O-Kagachi Made Manifest",
+    "path": "553037-neo-the-kami-war-o-kagachi-made-manifest.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552237&type=card",
+    "name": "Brilliant Restoration",
+    "path": "552237-neo-brilliant-restoration.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552238&type=card",
+    "name": "Cloudsteel Kirin",
+    "path": "552238-neo-cloudsteel-kirin.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552239&type=card",
+    "name": "Farewell",
+    "path": "552239-neo-farewell.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552240&type=card",
+    "name": "Invoke Justice",
+    "path": "552240-neo-invoke-justice.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552241&type=card",
+    "name": "Light-Paws, Emperor's Voice",
+    "path": "552241-neo-light-paws-emperor-s-voice.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552242&type=card",
+    "name": "Lion Sash",
+    "path": "552242-neo-lion-sash.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552243&type=card",
+    "name": "March of Otherworldly Light",
+    "path": "552243-neo-march-of-otherworldly-light.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552244&type=card",
+    "name": "Invoke the Winds",
+    "path": "552244-neo-invoke-the-winds.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552245&type=card",
+    "name": "Jin-Gitaxias, Progress Tyrant",
+    "path": "552245-neo-jin-gitaxias-progress-tyrant.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552246&type=card",
+    "name": "March of Swirling Mist",
+    "path": "552246-neo-march-of-swirling-mist.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552247&type=card",
+    "name": "Mindlink Mech",
+    "path": "552247-neo-mindlink-mech.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552248&type=card",
+    "name": "The Reality Chip",
+    "path": "552248-neo-the-reality-chip.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552249&type=card",
+    "name": "Tameshi, Reality Architect",
+    "path": "552249-neo-tameshi-reality-architect.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552250&type=card",
+    "name": "Tezzeret, Betrayer of Flesh",
+    "path": "552250-neo-tezzeret-betrayer-of-flesh.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552251&type=card",
+    "name": "Blade of the Oni",
+    "path": "552251-neo-blade-of-the-oni.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552252&type=card",
+    "name": "Hidetsugu, Devouring Chaos",
+    "path": "552252-neo-hidetsugu-devouring-chaos.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552253&type=card",
+    "name": "Invoke Despair",
+    "path": "552253-neo-invoke-despair.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552254&type=card",
+    "name": "March of Wretched Sorrow",
+    "path": "552254-neo-march-of-wretched-sorrow.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552255&type=card",
+    "name": "Mukotai Soulripper",
+    "path": "552255-neo-mukotai-soulripper.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552256&type=card",
+    "name": "Soul Transfer",
+    "path": "552256-neo-soul-transfer.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552257&type=card",
+    "name": "Explosive Singularity",
+    "path": "552257-neo-explosive-singularity.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552258&type=card",
+    "name": "Invoke Calamity",
+    "path": "552258-neo-invoke-calamity.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552259&type=card",
+    "name": "Lizard Blades",
+    "path": "552259-neo-lizard-blades.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552260&type=card",
+    "name": "March of Reckless Joy",
+    "path": "552260-neo-march-of-reckless-joy.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552261&type=card",
+    "name": "Ogre-Head Helm",
+    "path": "552261-neo-ogre-head-helm.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552262&type=card",
+    "name": "Scrap Welder",
+    "path": "552262-neo-scrap-welder.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552263&type=card",
+    "name": "Thundering Raiju",
+    "path": "552263-neo-thundering-raiju.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552264&type=card",
+    "name": "Invoke the Ancients",
+    "path": "552264-neo-invoke-the-ancients.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552265&type=card",
+    "name": "Kami of Transience",
+    "path": "552265-neo-kami-of-transience.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552266&type=card",
+    "name": "Kodama of the West Tree",
+    "path": "552266-neo-kodama-of-the-west-tree.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552267&type=card",
+    "name": "March of Burgeoning Life",
+    "path": "552267-neo-march-of-burgeoning-life.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552268&type=card",
+    "name": "Shigeki, Jukai Visionary",
+    "path": "552268-neo-shigeki-jukai-visionary.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552269&type=card",
+    "name": "Weaver of Harmony",
+    "path": "552269-neo-weaver-of-harmony.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552270&type=card",
+    "name": "Eiganjo Uprising",
+    "path": "552270-neo-eiganjo-uprising.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552271&type=card",
+    "name": "Greasefang, Okiba Boss",
+    "path": "552271-neo-greasefang-okiba-boss.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552272&type=card",
+    "name": "Hinata, Dawn-Crowned",
+    "path": "552272-neo-hinata-dawn-crowned.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552273&type=card",
+    "name": "Satsuki, the Living Lore",
+    "path": "552273-neo-satsuki-the-living-lore.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552274&type=card",
+    "name": "Spirit-Sister's Call",
+    "path": "552274-neo-spirit-sister-s-call.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552275&type=card",
+    "name": "Eater of Virtue",
+    "path": "552275-neo-eater-of-virtue.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552276&type=card",
+    "name": "Mechtitan Core",
+    "path": "552276-neo-mechtitan-core.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552277&type=card",
+    "name": "Mirror Box",
+    "path": "552277-neo-mirror-box.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552278&type=card",
+    "name": "Reckoner Bankbuster",
+    "path": "552278-neo-reckoner-bankbuster.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552279&type=card",
+    "name": "Surgehacker Mech",
+    "path": "552279-neo-surgehacker-mech.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552116&type=card",
+    "name": "Ao, the Dawn Sky",
+    "path": "552116-neo-ao-the-dawn-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552117&type=card",
+    "name": "Kyodai, Soul of Kamigawa",
+    "path": "552117-neo-kyodai-soul-of-kamigawa.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552118&type=card",
+    "name": "Kairi, the Swirling Sky",
+    "path": "552118-neo-kairi-the-swirling-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552119&type=card",
+    "name": "Junji, the Midnight Sky",
+    "path": "552119-neo-junji-the-midnight-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552120&type=card",
+    "name": "Atsushi, the Blazing Sky",
+    "path": "552120-neo-atsushi-the-blazing-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552121&type=card",
+    "name": "Kura, the Boundless Sky",
+    "path": "552121-neo-kura-the-boundless-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552122&type=card",
+    "name": "Boseiju, Who Endures",
+    "path": "552122-neo-boseiju-who-endures.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552123&type=card",
+    "name": "Eiganjo, Seat of the Empire",
+    "path": "552123-neo-eiganjo-seat-of-the-empire.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552124&type=card",
+    "name": "Otawara, Soaring City",
+    "path": "552124-neo-otawara-soaring-city.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552125&type=card",
+    "name": "Sokenzan, Crucible of Defiance",
+    "path": "552125-neo-sokenzan-crucible-of-defiance.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552126&type=card",
+    "name": "Takenuma, Abandoned Mire",
+    "path": "552126-neo-takenuma-abandoned-mire.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551706&type=card",
+    "name": "Ao, the Dawn Sky",
+    "path": "551706-neo-ao-the-dawn-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551707&type=card",
+    "name": "Brilliant Restoration",
+    "path": "551707-neo-brilliant-restoration.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551708&type=card",
+    "name": "Cloudsteel Kirin",
+    "path": "551708-neo-cloudsteel-kirin.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551709&type=card",
+    "name": "Farewell",
+    "path": "551709-neo-farewell.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551710&type=card",
+    "name": "Invoke Justice",
+    "path": "551710-neo-invoke-justice.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551711&type=card",
+    "name": "Kyodai, Soul of Kamigawa",
+    "path": "551711-neo-kyodai-soul-of-kamigawa.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551712&type=card",
+    "name": "Light-Paws, Emperor's Voice",
+    "path": "551712-neo-light-paws-emperor-s-voice.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551713&type=card",
+    "name": "Lion Sash",
+    "path": "551713-neo-lion-sash.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551714&type=card",
+    "name": "March of Otherworldly Light",
+    "path": "551714-neo-march-of-otherworldly-light.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551715&type=card",
+    "name": "The Restoration of Eiganjo // Architect of Restoration",
+    "path": "551715-neo-the-restoration-of-eiganjo-architect-of-restoration.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551716&type=card",
+    "name": "The Restoration of Eiganjo // Architect of Restoration",
+    "path": "551716-neo-the-restoration-of-eiganjo-architect-of-restoration.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551717&type=card",
+    "name": "Inventive Iteration // Living Breakthrough",
+    "path": "551717-neo-inventive-iteration-living-breakthrough.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551718&type=card",
+    "name": "Inventive Iteration // Living Breakthrough",
+    "path": "551718-neo-inventive-iteration-living-breakthrough.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551719&type=card",
+    "name": "Invoke the Winds",
+    "path": "551719-neo-invoke-the-winds.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551720&type=card",
+    "name": "Jin-Gitaxias, Progress Tyrant",
+    "path": "551720-neo-jin-gitaxias-progress-tyrant.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551721&type=card",
+    "name": "Kairi, the Swirling Sky",
+    "path": "551721-neo-kairi-the-swirling-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551722&type=card",
+    "name": "March of Swirling Mist",
+    "path": "551722-neo-march-of-swirling-mist.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548572&type=card",
+    "name": "Shrine Steward",
+    "path": "548572-neo-shrine-steward.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548573&type=card",
+    "name": "Surgehacker Mech",
+    "path": "548573-neo-surgehacker-mech.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548574&type=card",
+    "name": "Thundersteel Colossus",
+    "path": "548574-neo-thundersteel-colossus.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548575&type=card",
+    "name": "Towashi Guide-Bot",
+    "path": "548575-neo-towashi-guide-bot.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548576&type=card",
+    "name": "Walking Skyscraper",
+    "path": "548576-neo-walking-skyscraper.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548577&type=card",
+    "name": "Bloodfell Caves",
+    "path": "548577-neo-bloodfell-caves.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548578&type=card",
+    "name": "Blossoming Sands",
+    "path": "548578-neo-blossoming-sands.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548579&type=card",
+    "name": "Boseiju, Who Endures",
+    "path": "548579-neo-boseiju-who-endures.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548580&type=card",
+    "name": "Dismal Backwater",
+    "path": "548580-neo-dismal-backwater.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548581&type=card",
+    "name": "Eiganjo, Seat of the Empire",
+    "path": "548581-neo-eiganjo-seat-of-the-empire.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548582&type=card",
+    "name": "Jungle Hollow",
+    "path": "548582-neo-jungle-hollow.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548583&type=card",
+    "name": "Mech Hangar",
+    "path": "548583-neo-mech-hangar.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548584&type=card",
+    "name": "Otawara, Soaring City",
+    "path": "548584-neo-otawara-soaring-city.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548585&type=card",
+    "name": "Roadside Reliquary",
+    "path": "548585-neo-roadside-reliquary.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548586&type=card",
+    "name": "Rugged Highlands",
+    "path": "548586-neo-rugged-highlands.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548587&type=card",
+    "name": "Scoured Barrens",
+    "path": "548587-neo-scoured-barrens.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548588&type=card",
+    "name": "Secluded Courtyard",
+    "path": "548588-neo-secluded-courtyard.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548589&type=card",
+    "name": "Sokenzan, Crucible of Defiance",
+    "path": "548589-neo-sokenzan-crucible-of-defiance.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548590&type=card",
+    "name": "Swiftwater Cliffs",
+    "path": "548590-neo-swiftwater-cliffs.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548591&type=card",
+    "name": "Takenuma, Abandoned Mire",
+    "path": "548591-neo-takenuma-abandoned-mire.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548592&type=card",
+    "name": "Thornwood Falls",
+    "path": "548592-neo-thornwood-falls.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548593&type=card",
+    "name": "Tranquil Cove",
+    "path": "548593-neo-tranquil-cove.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548594&type=card",
+    "name": "Uncharted Haven",
+    "path": "548594-neo-uncharted-haven.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548595&type=card",
+    "name": "Wind-Scarred Crag",
+    "path": "548595-neo-wind-scarred-crag.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553460&type=card",
+    "name": "Plains",
+    "path": "553460-neo-plains.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553461&type=card",
+    "name": "Plains",
+    "path": "553461-neo-plains.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553462&type=card",
+    "name": "Island",
+    "path": "553462-neo-island.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553463&type=card",
+    "name": "Island",
+    "path": "553463-neo-island.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553464&type=card",
+    "name": "Swamp",
+    "path": "553464-neo-swamp.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553465&type=card",
+    "name": "Swamp",
+    "path": "553465-neo-swamp.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553466&type=card",
+    "name": "Mountain",
+    "path": "553466-neo-mountain.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553467&type=card",
+    "name": "Mountain",
+    "path": "553467-neo-mountain.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553468&type=card",
+    "name": "Forest",
+    "path": "553468-neo-forest.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553469&type=card",
+    "name": "Forest",
+    "path": "553469-neo-forest.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553570&type=card",
+    "name": "Plains",
+    "path": "553570-neo-plains.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553571&type=card",
+    "name": "Plains",
+    "path": "553571-neo-plains.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553572&type=card",
+    "name": "Island",
+    "path": "553572-neo-island.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553573&type=card",
+    "name": "Island",
+    "path": "553573-neo-island.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553574&type=card",
+    "name": "Swamp",
+    "path": "553574-neo-swamp.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553575&type=card",
+    "name": "Swamp",
+    "path": "553575-neo-swamp.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553576&type=card",
+    "name": "Mountain",
+    "path": "553576-neo-mountain.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553577&type=card",
+    "name": "Mountain",
+    "path": "553577-neo-mountain.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553578&type=card",
+    "name": "Forest",
+    "path": "553578-neo-forest.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553579&type=card",
+    "name": "Forest",
+    "path": "553579-neo-forest.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551646&type=card",
+    "name": "The Wandering Emperor",
+    "path": "551646-neo-the-wandering-emperor.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551647&type=card",
+    "name": "Tezzeret, Betrayer of Flesh",
+    "path": "551647-neo-tezzeret-betrayer-of-flesh.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551648&type=card",
+    "name": "Kaito Shizuki",
+    "path": "551648-neo-kaito-shizuki.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551649&type=card",
+    "name": "Tamiyo, Compleated Sage",
+    "path": "551649-neo-tamiyo-compleated-sage.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552963&type=card",
+    "name": "Jin-Gitaxias, Progress Tyrant",
+    "path": "552963-neo-jin-gitaxias-progress-tyrant.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552964&type=card",
+    "name": "Tamiyo, Compleated Sage",
+    "path": "552964-neo-tamiyo-compleated-sage.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553218&type=card",
+    "name": "Eiganjo Exemplar",
+    "path": "553218-neo-eiganjo-exemplar.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553219&type=card",
+    "name": "Imperial Subduer",
+    "path": "553219-neo-imperial-subduer.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553220&type=card",
+    "name": "Norika Yamazaki, the Poet",
+    "path": "553220-neo-norika-yamazaki-the-poet.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553221&type=card",
+    "name": "Selfless Samurai",
+    "path": "553221-neo-selfless-samurai.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553222&type=card",
+    "name": "Seven-Tail Mentor",
+    "path": "553222-neo-seven-tail-mentor.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553223&type=card",
+    "name": "Sky-Blessed Samurai",
+    "path": "553223-neo-sky-blessed-samurai.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553224&type=card",
+    "name": "Sunblade Samurai",
+    "path": "553224-neo-sunblade-samurai.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553225&type=card",
+    "name": "The Wandering Emperor",
+    "path": "553225-neo-the-wandering-emperor.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553226&type=card",
+    "name": "Guardians of Oboro",
+    "path": "553226-neo-guardians-of-oboro.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553227&type=card",
+    "name": "Nezumi Bladeblesser",
+    "path": "553227-neo-nezumi-bladeblesser.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553228&type=card",
+    "name": "Akki Ronin",
+    "path": "553228-neo-akki-ronin.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553229&type=card",
+    "name": "Goro-Goro, Disciple of Ryusei",
+    "path": "553229-neo-goro-goro-disciple-of-ryusei.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553230&type=card",
+    "name": "Heiko Yamazaki, the General",
+    "path": "553230-neo-heiko-yamazaki-the-general.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553231&type=card",
+    "name": "Peerless Samurai",
+    "path": "553231-neo-peerless-samurai.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553232&type=card",
+    "name": "Reinforced Ronin",
+    "path": "553232-neo-reinforced-ronin.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553233&type=card",
+    "name": "Upriser Renegade",
+    "path": "553233-neo-upriser-renegade.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553234&type=card",
+    "name": "Heir of the Ancient Fang",
+    "path": "553234-neo-heir-of-the-ancient-fang.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553235&type=card",
+    "name": "Jukai Trainee",
+    "path": "553235-neo-jukai-trainee.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553236&type=card",
+    "name": "Asari Captain",
+    "path": "553236-neo-asari-captain.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553237&type=card",
+    "name": "Isshin, Two Heavens as One",
+    "path": "553237-neo-isshin-two-heavens-as-one.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553238&type=card",
+    "name": "Raiyuu, Storm's Edge",
+    "path": "553238-neo-raiyuu-storm-s-edge.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553239&type=card",
+    "name": "Risona, Asari Commander",
+    "path": "553239-neo-risona-asari-commander.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552710&type=card",
+    "name": "Blade-Blizzard Kitsune",
+    "path": "552710-neo-blade-blizzard-kitsune.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552711&type=card",
+    "name": "Covert Technician",
+    "path": "552711-neo-covert-technician.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552712&type=card",
+    "name": "Futurist Operative",
+    "path": "552712-neo-futurist-operative.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552713&type=card",
+    "name": "Moon-Circuit Hacker",
+    "path": "552713-neo-moon-circuit-hacker.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552714&type=card",
+    "name": "Moonsnare Specialist",
+    "path": "552714-neo-moonsnare-specialist.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552715&type=card",
+    "name": "Prosperous Thief",
+    "path": "552715-neo-prosperous-thief.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552716&type=card",
+    "name": "Thousand-Faced Shadow",
+    "path": "552716-neo-thousand-faced-shadow.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552717&type=card",
+    "name": "Biting-Palm Ninja",
+    "path": "552717-neo-biting-palm-ninja.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552718&type=card",
+    "name": "Dokuchi Shadow-Walker",
+    "path": "552718-neo-dokuchi-shadow-walker.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552719&type=card",
+    "name": "Dokuchi Silencer",
+    "path": "552719-neo-dokuchi-silencer.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552720&type=card",
+    "name": "Inkrise Infiltrator",
+    "path": "552720-neo-inkrise-infiltrator.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552721&type=card",
+    "name": "Mukotai Ambusher",
+    "path": "552721-neo-mukotai-ambusher.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552722&type=card",
+    "name": "Nashi, Moon Sage's Scion",
+    "path": "552722-neo-nashi-moon-sage-s-scion.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552723&type=card",
+    "name": "Nezumi Prowler",
+    "path": "552723-neo-nezumi-prowler.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552724&type=card",
+    "name": "Tatsunari, Toad Rider",
+    "path": "552724-neo-tatsunari-toad-rider.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552725&type=card",
+    "name": "Coiling Stalker",
+    "path": "552725-neo-coiling-stalker.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552726&type=card",
+    "name": "Fang of Shigeki",
+    "path": "552726-neo-fang-of-shigeki.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552727&type=card",
+    "name": "Kappa Tech-Wrecker",
+    "path": "552727-neo-kappa-tech-wrecker.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552728&type=card",
+    "name": "Spring-Leaf Avenger",
+    "path": "552728-neo-spring-leaf-avenger.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552729&type=card",
+    "name": "Kaito Shizuki",
+    "path": "552729-neo-kaito-shizuki.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552730&type=card",
+    "name": "Kotose, the Silent Spider",
+    "path": "552730-neo-kotose-the-silent-spider.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552731&type=card",
+    "name": "Satoru Umezawa",
+    "path": "552731-neo-satoru-umezawa.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552732&type=card",
+    "name": "Silver-Fur Master",
+    "path": "552732-neo-silver-fur-master.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553020&type=card",
+    "name": "The Restoration of Eiganjo // Architect of Restoration",
+    "path": "553020-neo-the-restoration-of-eiganjo-architect-of-restoration.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553021&type=card",
+    "name": "The Restoration of Eiganjo // Architect of Restoration",
+    "path": "553021-neo-the-restoration-of-eiganjo-architect-of-restoration.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553022&type=card",
+    "name": "Inventive Iteration // Living Breakthrough",
+    "path": "553022-neo-inventive-iteration-living-breakthrough.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553023&type=card",
+    "name": "Inventive Iteration // Living Breakthrough",
+    "path": "553023-neo-inventive-iteration-living-breakthrough.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=553024&type=card",
+    "name": "Tribute to Horobi // Echo of Death's Wail",
+    "path": "553024-neo-tribute-to-horobi-echo-of-death-s-wail.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548291&type=card",
+    "name": "Ancestral Katana",
+    "path": "548291-neo-ancestral-katana.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548292&type=card",
+    "name": "Ao, the Dawn Sky",
+    "path": "548292-neo-ao-the-dawn-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548293&type=card",
+    "name": "Banishing Slash",
+    "path": "548293-neo-banishing-slash.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548294&type=card",
+    "name": "Befriending the Moths // Imperial Moth",
+    "path": "548294-neo-befriending-the-moths-imperial-moth.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548295&type=card",
+    "name": "Befriending the Moths // Imperial Moth",
+    "path": "548295-neo-befriending-the-moths-imperial-moth.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548296&type=card",
+    "name": "Blade-Blizzard Kitsune",
+    "path": "548296-neo-blade-blizzard-kitsune.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548297&type=card",
+    "name": "Born to Drive",
+    "path": "548297-neo-born-to-drive.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548298&type=card",
+    "name": "Brilliant Restoration",
+    "path": "548298-neo-brilliant-restoration.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548299&type=card",
+    "name": "Cloudsteel Kirin",
+    "path": "548299-neo-cloudsteel-kirin.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548300&type=card",
+    "name": "Dragonfly Suit",
+    "path": "548300-neo-dragonfly-suit.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548301&type=card",
+    "name": "Eiganjo Exemplar",
+    "path": "548301-neo-eiganjo-exemplar.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548302&type=card",
+    "name": "Era of Enlightenment // Hand of Enlightenment",
+    "path": "548302-neo-era-of-enlightenment-hand-of-enlightenment.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548303&type=card",
+    "name": "Era of Enlightenment // Hand of Enlightenment",
+    "path": "548303-neo-era-of-enlightenment-hand-of-enlightenment.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548304&type=card",
+    "name": "The Fall of Lord Konda // Fragment of Konda",
+    "path": "548304-neo-the-fall-of-lord-konda-fragment-of-konda.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548305&type=card",
+    "name": "The Fall of Lord Konda // Fragment of Konda",
+    "path": "548305-neo-the-fall-of-lord-konda-fragment-of-konda.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548306&type=card",
+    "name": "Farewell",
+    "path": "548306-neo-farewell.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548307&type=card",
+    "name": "Go-Shintai of Shared Purpose",
+    "path": "548307-neo-go-shintai-of-shared-purpose.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548308&type=card",
+    "name": "Golden-Tail Disciple",
+    "path": "548308-neo-golden-tail-disciple.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548309&type=card",
+    "name": "Hotshot Mechanic",
+    "path": "548309-neo-hotshot-mechanic.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548310&type=card",
+    "name": "Imperial Oath",
+    "path": "548310-neo-imperial-oath.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548311&type=card",
+    "name": "Imperial Recovery Unit",
+    "path": "548311-neo-imperial-recovery-unit.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548312&type=card",
+    "name": "Imperial Subduer",
+    "path": "548312-neo-imperial-subduer.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548313&type=card",
+    "name": "Intercessor's Arrest",
+    "path": "548313-neo-intercessor-s-arrest.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548314&type=card",
+    "name": "Invoke Justice",
+    "path": "548314-neo-invoke-justice.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548315&type=card",
+    "name": "Kitsune Ace",
+    "path": "548315-neo-kitsune-ace.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548316&type=card",
+    "name": "Kyodai, Soul of Kamigawa",
+    "path": "548316-neo-kyodai-soul-of-kamigawa.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548317&type=card",
+    "name": "Light the Way",
+    "path": "548317-neo-light-the-way.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548318&type=card",
+    "name": "Light-Paws, Emperor's Voice",
+    "path": "548318-neo-light-paws-emperor-s-voice.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548319&type=card",
+    "name": "Lion Sash",
+    "path": "548319-neo-lion-sash.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548320&type=card",
+    "name": "Lucky Offering",
+    "path": "548320-neo-lucky-offering.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548321&type=card",
+    "name": "March of Otherworldly Light",
+    "path": "548321-neo-march-of-otherworldly-light.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548322&type=card",
+    "name": "Michiko's Reign of Truth // Portrait of Michiko",
+    "path": "548322-neo-michiko-s-reign-of-truth-portrait-of-michiko.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548323&type=card",
+    "name": "Michiko's Reign of Truth // Portrait of Michiko",
+    "path": "548323-neo-michiko-s-reign-of-truth-portrait-of-michiko.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548324&type=card",
+    "name": "Mothrider Patrol",
+    "path": "548324-neo-mothrider-patrol.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548325&type=card",
+    "name": "Norika Yamazaki, the Poet",
+    "path": "548325-neo-norika-yamazaki-the-poet.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548326&type=card",
+    "name": "Regent's Authority",
+    "path": "548326-neo-regent-s-authority.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548327&type=card",
+    "name": "Repel the Vile",
+    "path": "548327-neo-repel-the-vile.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548328&type=card",
+    "name": "The Restoration of Eiganjo // Architect of Restoration",
+    "path": "548328-neo-the-restoration-of-eiganjo-architect-of-restoration.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548329&type=card",
+    "name": "The Restoration of Eiganjo // Architect of Restoration",
+    "path": "548329-neo-the-restoration-of-eiganjo-architect-of-restoration.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548330&type=card",
+    "name": "Selfless Samurai",
+    "path": "548330-neo-selfless-samurai.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548331&type=card",
+    "name": "Seven-Tail Mentor",
+    "path": "548331-neo-seven-tail-mentor.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548332&type=card",
+    "name": "Sky-Blessed Samurai",
+    "path": "548332-neo-sky-blessed-samurai.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548333&type=card",
+    "name": "Spirited Companion",
+    "path": "548333-neo-spirited-companion.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548334&type=card",
+    "name": "Sunblade Samurai",
+    "path": "548334-neo-sunblade-samurai.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548335&type=card",
+    "name": "Touch the Spirit Realm",
+    "path": "548335-neo-touch-the-spirit-realm.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548336&type=card",
+    "name": "Wanderer's Intervention",
+    "path": "548336-neo-wanderer-s-intervention.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548337&type=card",
+    "name": "The Wandering Emperor",
+    "path": "548337-neo-the-wandering-emperor.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548338&type=card",
+    "name": "When We Were Young",
+    "path": "548338-neo-when-we-were-young.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548339&type=card",
+    "name": "Acquisition Octopus",
+    "path": "548339-neo-acquisition-octopus.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548340&type=card",
+    "name": "Anchor to Reality",
+    "path": "548340-neo-anchor-to-reality.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548341&type=card",
+    "name": "Armguard Familiar",
+    "path": "548341-neo-armguard-familiar.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548342&type=card",
+    "name": "Awakened Awareness",
+    "path": "548342-neo-awakened-awareness.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548343&type=card",
+    "name": "Behold the Unspeakable // Vision of the Unspeakable",
+    "path": "548343-neo-behold-the-unspeakable-vision-of-the-unspeakable.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548344&type=card",
+    "name": "Behold the Unspeakable // Vision of the Unspeakable",
+    "path": "548344-neo-behold-the-unspeakable-vision-of-the-unspeakable.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548345&type=card",
+    "name": "Covert Technician",
+    "path": "548345-neo-covert-technician.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548346&type=card",
+    "name": "Discover the Impossible",
+    "path": "548346-neo-discover-the-impossible.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548347&type=card",
+    "name": "Disruption Protocol",
+    "path": "548347-neo-disruption-protocol.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548348&type=card",
+    "name": "Essence Capture",
+    "path": "548348-neo-essence-capture.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548349&type=card",
+    "name": "Futurist Operative",
+    "path": "548349-neo-futurist-operative.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548350&type=card",
+    "name": "Futurist Sentinel",
+    "path": "548350-neo-futurist-sentinel.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548351&type=card",
+    "name": "Go-Shintai of Lost Wisdom",
+    "path": "548351-neo-go-shintai-of-lost-wisdom.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548352&type=card",
+    "name": "Guardians of Oboro",
+    "path": "548352-neo-guardians-of-oboro.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548353&type=card",
+    "name": "Inventive Iteration // Living Breakthrough",
+    "path": "548353-neo-inventive-iteration-living-breakthrough.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548354&type=card",
+    "name": "Inventive Iteration // Living Breakthrough",
+    "path": "548354-neo-inventive-iteration-living-breakthrough.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548355&type=card",
+    "name": "Invoke the Winds",
+    "path": "548355-neo-invoke-the-winds.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548356&type=card",
+    "name": "Jin-Gitaxias, Progress Tyrant",
+    "path": "548356-neo-jin-gitaxias-progress-tyrant.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548357&type=card",
+    "name": "Kairi, the Swirling Sky",
+    "path": "548357-neo-kairi-the-swirling-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548358&type=card",
+    "name": "March of Swirling Mist",
+    "path": "548358-neo-march-of-swirling-mist.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548359&type=card",
+    "name": "Mindlink Mech",
+    "path": "548359-neo-mindlink-mech.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548360&type=card",
+    "name": "Mirrorshell Crab",
+    "path": "548360-neo-mirrorshell-crab.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548361&type=card",
+    "name": "Mnemonic Sphere",
+    "path": "548361-neo-mnemonic-sphere.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548362&type=card",
+    "name": "Mobilizer Mech",
+    "path": "548362-neo-mobilizer-mech.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548363&type=card",
+    "name": "The Modern Age // Vector Glider",
+    "path": "548363-neo-the-modern-age-vector-glider.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548364&type=card",
+    "name": "The Modern Age // Vector Glider",
+    "path": "548364-neo-the-modern-age-vector-glider.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548365&type=card",
+    "name": "Moon-Circuit Hacker",
+    "path": "548365-neo-moon-circuit-hacker.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548366&type=card",
+    "name": "Moonfolk Puzzlemaker",
+    "path": "548366-neo-moonfolk-puzzlemaker.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548367&type=card",
+    "name": "Moonsnare Prototype",
+    "path": "548367-neo-moonsnare-prototype.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548368&type=card",
+    "name": "Moonsnare Specialist",
+    "path": "548368-neo-moonsnare-specialist.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548369&type=card",
+    "name": "Network Disruptor",
+    "path": "548369-neo-network-disruptor.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548370&type=card",
+    "name": "Planar Incision",
+    "path": "548370-neo-planar-incision.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548371&type=card",
+    "name": "Prosperous Thief",
+    "path": "548371-neo-prosperous-thief.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548372&type=card",
+    "name": "The Reality Chip",
+    "path": "548372-neo-the-reality-chip.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548373&type=card",
+    "name": "Reality Heist",
+    "path": "548373-neo-reality-heist.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548374&type=card",
+    "name": "Replication Specialist",
+    "path": "548374-neo-replication-specialist.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548375&type=card",
+    "name": "Saiba Trespassers",
+    "path": "548375-neo-saiba-trespassers.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548376&type=card",
+    "name": "Short Circuit",
+    "path": "548376-neo-short-circuit.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548377&type=card",
+    "name": "Skyswimmer Koi",
+    "path": "548377-neo-skyswimmer-koi.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548378&type=card",
+    "name": "Spell Pierce",
+    "path": "548378-neo-spell-pierce.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548379&type=card",
+    "name": "Suit Up",
+    "path": "548379-neo-suit-up.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548380&type=card",
+    "name": "Tameshi, Reality Architect",
+    "path": "548380-neo-tameshi-reality-architect.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548381&type=card",
+    "name": "Tamiyo's Compleation",
+    "path": "548381-neo-tamiyo-s-compleation.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548382&type=card",
+    "name": "Tezzeret, Betrayer of Flesh",
+    "path": "548382-neo-tezzeret-betrayer-of-flesh.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548383&type=card",
+    "name": "Thirst for Knowledge",
+    "path": "548383-neo-thirst-for-knowledge.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548384&type=card",
+    "name": "Thousand-Faced Shadow",
+    "path": "548384-neo-thousand-faced-shadow.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548385&type=card",
+    "name": "Assassin's Ink",
+    "path": "548385-neo-assassin-s-ink.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548386&type=card",
+    "name": "Biting-Palm Ninja",
+    "path": "548386-neo-biting-palm-ninja.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548387&type=card",
+    "name": "Blade of the Oni",
+    "path": "548387-neo-blade-of-the-oni.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548388&type=card",
+    "name": "Chainflail Centipede",
+    "path": "548388-neo-chainflail-centipede.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548389&type=card",
+    "name": "Clawing Torment",
+    "path": "548389-neo-clawing-torment.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548390&type=card",
+    "name": "Debt to the Kami",
+    "path": "548390-neo-debt-to-the-kami.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548391&type=card",
+    "name": "Dockside Chef",
+    "path": "548391-neo-dockside-chef.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548392&type=card",
+    "name": "Dokuchi Shadow-Walker",
+    "path": "548392-neo-dokuchi-shadow-walker.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548393&type=card",
+    "name": "Dokuchi Silencer",
+    "path": "548393-neo-dokuchi-silencer.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548394&type=card",
+    "name": "Enormous Energy Blade",
+    "path": "548394-neo-enormous-energy-blade.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548395&type=card",
+    "name": "Go-Shintai of Hidden Cruelty",
+    "path": "548395-neo-go-shintai-of-hidden-cruelty.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548396&type=card",
+    "name": "Gravelighter",
+    "path": "548396-neo-gravelighter.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548397&type=card",
+    "name": "Hidetsugu, Devouring Chaos",
+    "path": "548397-neo-hidetsugu-devouring-chaos.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548398&type=card",
+    "name": "Inkrise Infiltrator",
+    "path": "548398-neo-inkrise-infiltrator.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548399&type=card",
+    "name": "Invoke Despair",
+    "path": "548399-neo-invoke-despair.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548400&type=card",
+    "name": "Junji, the Midnight Sky",
+    "path": "548400-neo-junji-the-midnight-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548401&type=card",
+    "name": "Kaito's Pursuit",
+    "path": "548401-neo-kaito-s-pursuit.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548402&type=card",
+    "name": "Kami of Restless Shadows",
+    "path": "548402-neo-kami-of-restless-shadows.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548403&type=card",
+    "name": "Kami of Terrible Secrets",
+    "path": "548403-neo-kami-of-terrible-secrets.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548404&type=card",
+    "name": "Leech Gauntlet",
+    "path": "548404-neo-leech-gauntlet.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548405&type=card",
+    "name": "Lethal Exploit",
+    "path": "548405-neo-lethal-exploit.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548406&type=card",
+    "name": "Life of Toshiro Umezawa // Memory of Toshiro",
+    "path": "548406-neo-life-of-toshiro-umezawa-memory-of-toshiro.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548407&type=card",
+    "name": "Life of Toshiro Umezawa // Memory of Toshiro",
+    "path": "548407-neo-life-of-toshiro-umezawa-memory-of-toshiro.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548408&type=card",
+    "name": "The Long Reach of Night // Animus of Night's Reach",
+    "path": "548408-neo-the-long-reach-of-night-animus-of-night-s-reach.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548409&type=card",
+    "name": "The Long Reach of Night // Animus of Night's Reach",
+    "path": "548409-neo-the-long-reach-of-night-animus-of-night-s-reach.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548410&type=card",
+    "name": "Malicious Malfunction",
+    "path": "548410-neo-malicious-malfunction.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548411&type=card",
+    "name": "March of Wretched Sorrow",
+    "path": "548411-neo-march-of-wretched-sorrow.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548412&type=card",
+    "name": "Mukotai Ambusher",
+    "path": "548412-neo-mukotai-ambusher.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548413&type=card",
+    "name": "Mukotai Soulripper",
+    "path": "548413-neo-mukotai-soulripper.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548414&type=card",
+    "name": "Nashi, Moon Sage's Scion",
+    "path": "548414-neo-nashi-moon-sage-s-scion.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548415&type=card",
+    "name": "Nezumi Bladeblesser",
+    "path": "548415-neo-nezumi-bladeblesser.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548416&type=card",
+    "name": "Nezumi Prowler",
+    "path": "548416-neo-nezumi-prowler.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548417&type=card",
+    "name": "Okiba Reckoner Raid // Nezumi Road Captain",
+    "path": "548417-neo-okiba-reckoner-raid-nezumi-road-captain.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548418&type=card",
+    "name": "Okiba Reckoner Raid // Nezumi Road Captain",
+    "path": "548418-neo-okiba-reckoner-raid-nezumi-road-captain.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548419&type=card",
+    "name": "Okiba Salvage",
+    "path": "548419-neo-okiba-salvage.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548420&type=card",
+    "name": "Reckoner Shakedown",
+    "path": "548420-neo-reckoner-shakedown.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548421&type=card",
+    "name": "Reckoner's Bargain",
+    "path": "548421-neo-reckoner-s-bargain.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548422&type=card",
+    "name": "Return to Action",
+    "path": "548422-neo-return-to-action.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548423&type=card",
+    "name": "Soul Transfer",
+    "path": "548423-neo-soul-transfer.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548424&type=card",
+    "name": "Tatsunari, Toad Rider",
+    "path": "548424-neo-tatsunari-toad-rider.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548425&type=card",
+    "name": "Tribute to Horobi // Echo of Death's Wail",
+    "path": "548425-neo-tribute-to-horobi-echo-of-death-s-wail.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548426&type=card",
+    "name": "Tribute to Horobi // Echo of Death's Wail",
+    "path": "548426-neo-tribute-to-horobi-echo-of-death-s-wail.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548427&type=card",
+    "name": "Twisted Embrace",
+    "path": "548427-neo-twisted-embrace.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548428&type=card",
+    "name": "Undercity Scrounger",
+    "path": "548428-neo-undercity-scrounger.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548429&type=card",
+    "name": "Unforgiving One",
+    "path": "548429-neo-unforgiving-one.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548430&type=card",
+    "name": "Virus Beetle",
+    "path": "548430-neo-virus-beetle.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548431&type=card",
+    "name": "You Are Already Dead",
+    "path": "548431-neo-you-are-already-dead.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548432&type=card",
+    "name": "Akki Ember-Keeper",
+    "path": "548432-neo-akki-ember-keeper.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548433&type=card",
+    "name": "Akki Ronin",
+    "path": "548433-neo-akki-ronin.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548434&type=card",
+    "name": "Akki War Paint",
+    "path": "548434-neo-akki-war-paint.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548435&type=card",
+    "name": "Ambitious Assault",
+    "path": "548435-neo-ambitious-assault.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548436&type=card",
+    "name": "Atsushi, the Blazing Sky",
+    "path": "548436-neo-atsushi-the-blazing-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548437&type=card",
+    "name": "Bronzeplate Boar",
+    "path": "548437-neo-bronzeplate-boar.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548438&type=card",
+    "name": "Crackling Emergence",
+    "path": "548438-neo-crackling-emergence.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548439&type=card",
+    "name": "Dragonspark Reactor",
+    "path": "548439-neo-dragonspark-reactor.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548440&type=card",
+    "name": "Experimental Synthesizer",
+    "path": "548440-neo-experimental-synthesizer.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548441&type=card",
+    "name": "Explosive Entry",
+    "path": "548441-neo-explosive-entry.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548442&type=card",
+    "name": "Explosive Singularity",
+    "path": "548442-neo-explosive-singularity.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548443&type=card",
+    "name": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki",
+    "path": "548443-neo-fable-of-the-mirror-breaker-reflection-of-kiki-jiki.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548444&type=card",
+    "name": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki",
+    "path": "548444-neo-fable-of-the-mirror-breaker-reflection-of-kiki-jiki.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548445&type=card",
+    "name": "Flame Discharge",
+    "path": "548445-neo-flame-discharge.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548446&type=card",
+    "name": "Gift of Wrath",
+    "path": "548446-neo-gift-of-wrath.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548447&type=card",
+    "name": "Go-Shintai of Ancient Wars",
+    "path": "548447-neo-go-shintai-of-ancient-wars.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548448&type=card",
+    "name": "Goro-Goro, Disciple of Ryusei",
+    "path": "548448-neo-goro-goro-disciple-of-ryusei.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548449&type=card",
+    "name": "Heiko Yamazaki, the General",
+    "path": "548449-neo-heiko-yamazaki-the-general.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548450&type=card",
+    "name": "Invoke Calamity",
+    "path": "548450-neo-invoke-calamity.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548451&type=card",
+    "name": "Ironhoof Boar",
+    "path": "548451-neo-ironhoof-boar.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548452&type=card",
+    "name": "Kami of Industry",
+    "path": "548452-neo-kami-of-industry.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548453&type=card",
+    "name": "Kami's Flare",
+    "path": "548453-neo-kami-s-flare.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548454&type=card",
+    "name": "Kindled Fury",
+    "path": "548454-neo-kindled-fury.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548455&type=card",
+    "name": "Kumano Faces Kakkazan // Etching of Kumano",
+    "path": "548455-neo-kumano-faces-kakkazan-etching-of-kumano.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548456&type=card",
+    "name": "Kumano Faces Kakkazan // Etching of Kumano",
+    "path": "548456-neo-kumano-faces-kakkazan-etching-of-kumano.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548457&type=card",
+    "name": "Lizard Blades",
+    "path": "548457-neo-lizard-blades.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548458&type=card",
+    "name": "March of Reckless Joy",
+    "path": "548458-neo-march-of-reckless-joy.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548459&type=card",
+    "name": "Ogre-Head Helm",
+    "path": "548459-neo-ogre-head-helm.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548460&type=card",
+    "name": "Peerless Samurai",
+    "path": "548460-neo-peerless-samurai.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548461&type=card",
+    "name": "Rabbit Battery",
+    "path": "548461-neo-rabbit-battery.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548462&type=card",
+    "name": "Reinforced Ronin",
+    "path": "548462-neo-reinforced-ronin.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548463&type=card",
+    "name": "Scrap Welder",
+    "path": "548463-neo-scrap-welder.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548464&type=card",
+    "name": "Scrapyard Steelbreaker",
+    "path": "548464-neo-scrapyard-steelbreaker.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548465&type=card",
+    "name": "Seismic Wave",
+    "path": "548465-neo-seismic-wave.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548466&type=card",
+    "name": "The Shattered States Era // Nameless Conqueror",
+    "path": "548466-neo-the-shattered-states-era-nameless-conqueror.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548467&type=card",
+    "name": "The Shattered States Era // Nameless Conqueror",
+    "path": "548467-neo-the-shattered-states-era-nameless-conqueror.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548468&type=card",
+    "name": "Simian Sling",
+    "path": "548468-neo-simian-sling.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548469&type=card",
+    "name": "Sokenzan Smelter",
+    "path": "548469-neo-sokenzan-smelter.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548470&type=card",
+    "name": "Tempered in Solitude",
+    "path": "548470-neo-tempered-in-solitude.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548471&type=card",
+    "name": "Thundering Raiju",
+    "path": "548471-neo-thundering-raiju.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548472&type=card",
+    "name": "Towashi Songshaper",
+    "path": "548472-neo-towashi-songshaper.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548473&type=card",
+    "name": "Twinshot Sniper",
+    "path": "548473-neo-twinshot-sniper.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548474&type=card",
+    "name": "Unstoppable Ogre",
+    "path": "548474-neo-unstoppable-ogre.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548475&type=card",
+    "name": "Upriser Renegade",
+    "path": "548475-neo-upriser-renegade.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548476&type=card",
+    "name": "Voltage Surge",
+    "path": "548476-neo-voltage-surge.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548477&type=card",
+    "name": "Azusa's Many Journeys // Likeness of the Seeker",
+    "path": "548477-neo-azusa-s-many-journeys-likeness-of-the-seeker.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548478&type=card",
+    "name": "Azusa's Many Journeys // Likeness of the Seeker",
+    "path": "548478-neo-azusa-s-many-journeys-likeness-of-the-seeker.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548479&type=card",
+    "name": "Bamboo Grove Archer",
+    "path": "548479-neo-bamboo-grove-archer.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548480&type=card",
+    "name": "Bearer of Memory",
+    "path": "548480-neo-bearer-of-memory.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548481&type=card",
+    "name": "Blossom Prancer",
+    "path": "548481-neo-blossom-prancer.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548482&type=card",
+    "name": "Boon of Boseiju",
+    "path": "548482-neo-boon-of-boseiju.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548483&type=card",
+    "name": "Boseiju Reaches Skyward // Branch of Boseiju",
+    "path": "548483-neo-boseiju-reaches-skyward-branch-of-boseiju.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548484&type=card",
+    "name": "Boseiju Reaches Skyward // Branch of Boseiju",
+    "path": "548484-neo-boseiju-reaches-skyward-branch-of-boseiju.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548485&type=card",
+    "name": "Careful Cultivation",
+    "path": "548485-neo-careful-cultivation.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548486&type=card",
+    "name": "Coiling Stalker",
+    "path": "548486-neo-coiling-stalker.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548487&type=card",
+    "name": "Commune with Spirits",
+    "path": "548487-neo-commune-with-spirits.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548488&type=card",
+    "name": "The Dragon-Kami Reborn // Dragon-Kami's Egg",
+    "path": "548488-neo-the-dragon-kami-reborn-dragon-kami-s-egg.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548489&type=card",
+    "name": "The Dragon-Kami Reborn // Dragon-Kami's Egg",
+    "path": "548489-neo-the-dragon-kami-reborn-dragon-kami-s-egg.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548490&type=card",
+    "name": "Fade into Antiquity",
+    "path": "548490-neo-fade-into-antiquity.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548491&type=card",
+    "name": "Fang of Shigeki",
+    "path": "548491-neo-fang-of-shigeki.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548492&type=card",
+    "name": "Favor of Jukai",
+    "path": "548492-neo-favor-of-jukai.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548493&type=card",
+    "name": "Generous Visitor",
+    "path": "548493-neo-generous-visitor.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548494&type=card",
+    "name": "Geothermal Kami",
+    "path": "548494-neo-geothermal-kami.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548495&type=card",
+    "name": "Go-Shintai of Boundless Vigor",
+    "path": "548495-neo-go-shintai-of-boundless-vigor.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548496&type=card",
+    "name": "Grafted Growth",
+    "path": "548496-neo-grafted-growth.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548497&type=card",
+    "name": "Greater Tanuki",
+    "path": "548497-neo-greater-tanuki.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548498&type=card",
+    "name": "Harmonious Emergence",
+    "path": "548498-neo-harmonious-emergence.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548499&type=card",
+    "name": "Heir of the Ancient Fang",
+    "path": "548499-neo-heir-of-the-ancient-fang.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548500&type=card",
+    "name": "Historian's Wisdom",
+    "path": "548500-neo-historian-s-wisdom.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548501&type=card",
+    "name": "Invoke the Ancients",
+    "path": "548501-neo-invoke-the-ancients.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548502&type=card",
+    "name": "Jugan Defends the Temple // Remnant of the Rising Star",
+    "path": "548502-neo-jugan-defends-the-temple-remnant-of-the-rising-star.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548503&type=card",
+    "name": "Jugan Defends the Temple // Remnant of the Rising Star",
+    "path": "548503-neo-jugan-defends-the-temple-remnant-of-the-rising-star.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548504&type=card",
+    "name": "Jukai Preserver",
+    "path": "548504-neo-jukai-preserver.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548505&type=card",
+    "name": "Jukai Trainee",
+    "path": "548505-neo-jukai-trainee.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548506&type=card",
+    "name": "Kami of Transience",
+    "path": "548506-neo-kami-of-transience.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548507&type=card",
+    "name": "Kappa Tech-Wrecker",
+    "path": "548507-neo-kappa-tech-wrecker.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548508&type=card",
+    "name": "Kodama of the West Tree",
+    "path": "548508-neo-kodama-of-the-west-tree.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548509&type=card",
+    "name": "Kura, the Boundless Sky",
+    "path": "548509-neo-kura-the-boundless-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548510&type=card",
+    "name": "March of Burgeoning Life",
+    "path": "548510-neo-march-of-burgeoning-life.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548511&type=card",
+    "name": "Master's Rebuke",
+    "path": "548511-neo-master-s-rebuke.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548512&type=card",
+    "name": "Orochi Merge-Keeper",
+    "path": "548512-neo-orochi-merge-keeper.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548513&type=card",
+    "name": "Roaring Earth",
+    "path": "548513-neo-roaring-earth.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548514&type=card",
+    "name": "Season of Renewal",
+    "path": "548514-neo-season-of-renewal.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548515&type=card",
+    "name": "Shigeki, Jukai Visionary",
+    "path": "548515-neo-shigeki-jukai-visionary.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548516&type=card",
+    "name": "Spinning Wheel Kick",
+    "path": "548516-neo-spinning-wheel-kick.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548517&type=card",
+    "name": "Spring-Leaf Avenger",
+    "path": "548517-neo-spring-leaf-avenger.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548518&type=card",
+    "name": "Storyweave",
+    "path": "548518-neo-storyweave.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548519&type=card",
+    "name": "Tales of Master Seshiro // Seshiro's Living Legacy",
+    "path": "548519-neo-tales-of-master-seshiro-seshiro-s-living-legacy.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548520&type=card",
+    "name": "Tales of Master Seshiro // Seshiro's Living Legacy",
+    "path": "548520-neo-tales-of-master-seshiro-seshiro-s-living-legacy.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548521&type=card",
+    "name": "Tamiyo's Safekeeping",
+    "path": "548521-neo-tamiyo-s-safekeeping.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548522&type=card",
+    "name": "Teachings of the Kirin // Kirin-Touched Orochi",
+    "path": "548522-neo-teachings-of-the-kirin-kirin-touched-orochi.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548523&type=card",
+    "name": "Teachings of the Kirin // Kirin-Touched Orochi",
+    "path": "548523-neo-teachings-of-the-kirin-kirin-touched-orochi.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548524&type=card",
+    "name": "Weaver of Harmony",
+    "path": "548524-neo-weaver-of-harmony.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548525&type=card",
+    "name": "Webspinner Cuff",
+    "path": "548525-neo-webspinner-cuff.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548526&type=card",
+    "name": "Asari Captain",
+    "path": "548526-neo-asari-captain.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548527&type=card",
+    "name": "Colossal Skyturtle",
+    "path": "548527-neo-colossal-skyturtle.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548528&type=card",
+    "name": "Eiganjo Uprising",
+    "path": "548528-neo-eiganjo-uprising.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548529&type=card",
+    "name": "Enthusiastic Mechanaut",
+    "path": "548529-neo-enthusiastic-mechanaut.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548530&type=card",
+    "name": "Gloomshrieker",
+    "path": "548530-neo-gloomshrieker.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548531&type=card",
+    "name": "Greasefang, Okiba Boss",
+    "path": "548531-neo-greasefang-okiba-boss.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548532&type=card",
+    "name": "Hidetsugu Consumes All // Vessel of the All-Consuming",
+    "path": "548532-neo-hidetsugu-consumes-all-vessel-of-the-all-consuming.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548533&type=card",
+    "name": "Hidetsugu Consumes All // Vessel of the All-Consuming",
+    "path": "548533-neo-hidetsugu-consumes-all-vessel-of-the-all-consuming.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548534&type=card",
+    "name": "Hinata, Dawn-Crowned",
+    "path": "548534-neo-hinata-dawn-crowned.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548535&type=card",
+    "name": "Invigorating Hot Spring",
+    "path": "548535-neo-invigorating-hot-spring.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548536&type=card",
+    "name": "Isshin, Two Heavens as One",
+    "path": "548536-neo-isshin-two-heavens-as-one.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548537&type=card",
+    "name": "Jukai Naturalist",
+    "path": "548537-neo-jukai-naturalist.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548538&type=card",
+    "name": "Kaito Shizuki",
+    "path": "548538-neo-kaito-shizuki.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548539&type=card",
+    "name": "The Kami War // O-Kagachi Made Manifest",
+    "path": "548539-neo-the-kami-war-o-kagachi-made-manifest.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548540&type=card",
+    "name": "The Kami War // O-Kagachi Made Manifest",
+    "path": "548540-neo-the-kami-war-o-kagachi-made-manifest.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548541&type=card",
+    "name": "Kotose, the Silent Spider",
+    "path": "548541-neo-kotose-the-silent-spider.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548542&type=card",
+    "name": "Naomi, Pillar of Order",
+    "path": "548542-neo-naomi-pillar-of-order.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548543&type=card",
+    "name": "Oni-Cult Anvil",
+    "path": "548543-neo-oni-cult-anvil.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548544&type=card",
+    "name": "Prodigy's Prototype",
+    "path": "548544-neo-prodigy-s-prototype.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548545&type=card",
+    "name": "Raiyuu, Storm's Edge",
+    "path": "548545-neo-raiyuu-storm-s-edge.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548546&type=card",
+    "name": "Risona, Asari Commander",
+    "path": "548546-neo-risona-asari-commander.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548547&type=card",
+    "name": "Satoru Umezawa",
+    "path": "548547-neo-satoru-umezawa.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548548&type=card",
+    "name": "Satsuki, the Living Lore",
+    "path": "548548-neo-satsuki-the-living-lore.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548549&type=card",
+    "name": "Silver-Fur Master",
+    "path": "548549-neo-silver-fur-master.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548550&type=card",
+    "name": "Spirit-Sister's Call",
+    "path": "548550-neo-spirit-sister-s-call.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548551&type=card",
+    "name": "Tamiyo, Compleated Sage",
+    "path": "548551-neo-tamiyo-compleated-sage.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548552&type=card",
+    "name": "Automated Artificer",
+    "path": "548552-neo-automated-artificer.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548553&type=card",
+    "name": "Bronze Cudgels",
+    "path": "548553-neo-bronze-cudgels.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548554&type=card",
+    "name": "Brute Suit",
+    "path": "548554-neo-brute-suit.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548555&type=card",
+    "name": "Circuit Mender",
+    "path": "548555-neo-circuit-mender.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548556&type=card",
+    "name": "Containment Construct",
+    "path": "548556-neo-containment-construct.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548557&type=card",
+    "name": "Dramatist's Puppet",
+    "path": "548557-neo-dramatist-s-puppet.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548558&type=card",
+    "name": "Eater of Virtue",
+    "path": "548558-neo-eater-of-virtue.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548559&type=card",
+    "name": "Ecologist's Terrarium",
+    "path": "548559-neo-ecologist-s-terrarium.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548560&type=card",
+    "name": "High-Speed Hoverbike",
+    "path": "548560-neo-high-speed-hoverbike.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548561&type=card",
+    "name": "Iron Apprentice",
+    "path": "548561-neo-iron-apprentice.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548562&type=card",
+    "name": "Mechtitan Core",
+    "path": "548562-neo-mechtitan-core.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548563&type=card",
+    "name": "Mirror Box",
+    "path": "548563-neo-mirror-box.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548564&type=card",
+    "name": "Network Terminal",
+    "path": "548564-neo-network-terminal.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548565&type=card",
+    "name": "Ninja's Kunai",
+    "path": "548565-neo-ninja-s-kunai.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548566&type=card",
+    "name": "Papercraft Decoy",
+    "path": "548566-neo-papercraft-decoy.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548567&type=card",
+    "name": "Patchwork Automaton",
+    "path": "548567-neo-patchwork-automaton.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548568&type=card",
+    "name": "Reckoner Bankbuster",
+    "path": "548568-neo-reckoner-bankbuster.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548569&type=card",
+    "name": "Reito Sentinel",
+    "path": "548569-neo-reito-sentinel.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548570&type=card",
+    "name": "Runaway Trash-Bot",
+    "path": "548570-neo-runaway-trash-bot.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=548571&type=card",
+    "name": "Searchlight Companion",
+    "path": "548571-neo-searchlight-companion.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551723&type=card",
+    "name": "Mindlink Mech",
+    "path": "551723-neo-mindlink-mech.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551724&type=card",
+    "name": "The Reality Chip",
+    "path": "551724-neo-the-reality-chip.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551725&type=card",
+    "name": "Tameshi, Reality Architect",
+    "path": "551725-neo-tameshi-reality-architect.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551726&type=card",
+    "name": "Thousand-Faced Shadow",
+    "path": "551726-neo-thousand-faced-shadow.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551727&type=card",
+    "name": "Biting-Palm Ninja",
+    "path": "551727-neo-biting-palm-ninja.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551728&type=card",
+    "name": "Blade of the Oni",
+    "path": "551728-neo-blade-of-the-oni.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551729&type=card",
+    "name": "Hidetsugu, Devouring Chaos",
+    "path": "551729-neo-hidetsugu-devouring-chaos.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551730&type=card",
+    "name": "Invoke Despair",
+    "path": "551730-neo-invoke-despair.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551731&type=card",
+    "name": "Junji, the Midnight Sky",
+    "path": "551731-neo-junji-the-midnight-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551732&type=card",
+    "name": "March of Wretched Sorrow",
+    "path": "551732-neo-march-of-wretched-sorrow.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551733&type=card",
+    "name": "Mukotai Soulripper",
+    "path": "551733-neo-mukotai-soulripper.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551734&type=card",
+    "name": "Nashi, Moon Sage's Scion",
+    "path": "551734-neo-nashi-moon-sage-s-scion.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551735&type=card",
+    "name": "Soul Transfer",
+    "path": "551735-neo-soul-transfer.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551736&type=card",
+    "name": "Tatsunari, Toad Rider",
+    "path": "551736-neo-tatsunari-toad-rider.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551737&type=card",
+    "name": "Tribute to Horobi // Echo of Death's Wail",
+    "path": "551737-neo-tribute-to-horobi-echo-of-death-s-wail.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551738&type=card",
+    "name": "Tribute to Horobi // Echo of Death's Wail",
+    "path": "551738-neo-tribute-to-horobi-echo-of-death-s-wail.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551739&type=card",
+    "name": "Atsushi, the Blazing Sky",
+    "path": "551739-neo-atsushi-the-blazing-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551740&type=card",
+    "name": "Explosive Singularity",
+    "path": "551740-neo-explosive-singularity.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551741&type=card",
+    "name": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki",
+    "path": "551741-neo-fable-of-the-mirror-breaker-reflection-of-kiki-jiki.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551742&type=card",
+    "name": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki",
+    "path": "551742-neo-fable-of-the-mirror-breaker-reflection-of-kiki-jiki.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551743&type=card",
+    "name": "Goro-Goro, Disciple of Ryusei",
+    "path": "551743-neo-goro-goro-disciple-of-ryusei.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551744&type=card",
+    "name": "Invoke Calamity",
+    "path": "551744-neo-invoke-calamity.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551745&type=card",
+    "name": "Lizard Blades",
+    "path": "551745-neo-lizard-blades.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551746&type=card",
+    "name": "March of Reckless Joy",
+    "path": "551746-neo-march-of-reckless-joy.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551747&type=card",
+    "name": "Ogre-Head Helm",
+    "path": "551747-neo-ogre-head-helm.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551748&type=card",
+    "name": "Scrap Welder",
+    "path": "551748-neo-scrap-welder.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551749&type=card",
+    "name": "Thundering Raiju",
+    "path": "551749-neo-thundering-raiju.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551750&type=card",
+    "name": "The Dragon-Kami Reborn // Dragon-Kami's Egg",
+    "path": "551750-neo-the-dragon-kami-reborn-dragon-kami-s-egg.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551751&type=card",
+    "name": "The Dragon-Kami Reborn // Dragon-Kami's Egg",
+    "path": "551751-neo-the-dragon-kami-reborn-dragon-kami-s-egg.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551752&type=card",
+    "name": "Invoke the Ancients",
+    "path": "551752-neo-invoke-the-ancients.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551753&type=card",
+    "name": "Jugan Defends the Temple // Remnant of the Rising Star",
+    "path": "551753-neo-jugan-defends-the-temple-remnant-of-the-rising-star.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551754&type=card",
+    "name": "Jugan Defends the Temple // Remnant of the Rising Star",
+    "path": "551754-neo-jugan-defends-the-temple-remnant-of-the-rising-star.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551755&type=card",
+    "name": "Kami of Transience",
+    "path": "551755-neo-kami-of-transience.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551756&type=card",
+    "name": "Kodama of the West Tree",
+    "path": "551756-neo-kodama-of-the-west-tree.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551757&type=card",
+    "name": "Kura, the Boundless Sky",
+    "path": "551757-neo-kura-the-boundless-sky.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551758&type=card",
+    "name": "March of Burgeoning Life",
+    "path": "551758-neo-march-of-burgeoning-life.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551759&type=card",
+    "name": "Shigeki, Jukai Visionary",
+    "path": "551759-neo-shigeki-jukai-visionary.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551760&type=card",
+    "name": "Spring-Leaf Avenger",
+    "path": "551760-neo-spring-leaf-avenger.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551761&type=card",
+    "name": "Teachings of the Kirin // Kirin-Touched Orochi",
+    "path": "551761-neo-teachings-of-the-kirin-kirin-touched-orochi.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551762&type=card",
+    "name": "Teachings of the Kirin // Kirin-Touched Orochi",
+    "path": "551762-neo-teachings-of-the-kirin-kirin-touched-orochi.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551763&type=card",
+    "name": "Weaver of Harmony",
+    "path": "551763-neo-weaver-of-harmony.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551764&type=card",
+    "name": "Eiganjo Uprising",
+    "path": "551764-neo-eiganjo-uprising.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551765&type=card",
+    "name": "Greasefang, Okiba Boss",
+    "path": "551765-neo-greasefang-okiba-boss.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551766&type=card",
+    "name": "Hidetsugu Consumes All // Vessel of the All-Consuming",
+    "path": "551766-neo-hidetsugu-consumes-all-vessel-of-the-all-consuming.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551767&type=card",
+    "name": "Hidetsugu Consumes All // Vessel of the All-Consuming",
+    "path": "551767-neo-hidetsugu-consumes-all-vessel-of-the-all-consuming.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551768&type=card",
+    "name": "Hinata, Dawn-Crowned",
+    "path": "551768-neo-hinata-dawn-crowned.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551769&type=card",
+    "name": "Isshin, Two Heavens as One",
+    "path": "551769-neo-isshin-two-heavens-as-one.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551770&type=card",
+    "name": "The Kami War // O-Kagachi Made Manifest",
+    "path": "551770-neo-the-kami-war-o-kagachi-made-manifest.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551771&type=card",
+    "name": "The Kami War // O-Kagachi Made Manifest",
+    "path": "551771-neo-the-kami-war-o-kagachi-made-manifest.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551772&type=card",
+    "name": "Kotose, the Silent Spider",
+    "path": "551772-neo-kotose-the-silent-spider.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551773&type=card",
+    "name": "Raiyuu, Storm's Edge",
+    "path": "551773-neo-raiyuu-storm-s-edge.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551774&type=card",
+    "name": "Risona, Asari Commander",
+    "path": "551774-neo-risona-asari-commander.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551775&type=card",
+    "name": "Satoru Umezawa",
+    "path": "551775-neo-satoru-umezawa.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551776&type=card",
+    "name": "Satsuki, the Living Lore",
+    "path": "551776-neo-satsuki-the-living-lore.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551777&type=card",
+    "name": "Spirit-Sister's Call",
+    "path": "551777-neo-spirit-sister-s-call.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551778&type=card",
+    "name": "Eater of Virtue",
+    "path": "551778-neo-eater-of-virtue.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551779&type=card",
+    "name": "Mechtitan Core",
+    "path": "551779-neo-mechtitan-core.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551780&type=card",
+    "name": "Mirror Box",
+    "path": "551780-neo-mirror-box.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551781&type=card",
+    "name": "Reckoner Bankbuster",
+    "path": "551781-neo-reckoner-bankbuster.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551782&type=card",
+    "name": "Surgehacker Mech",
+    "path": "551782-neo-surgehacker-mech.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551783&type=card",
+    "name": "Boseiju, Who Endures",
+    "path": "551783-neo-boseiju-who-endures.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551784&type=card",
+    "name": "Eiganjo, Seat of the Empire",
+    "path": "551784-neo-eiganjo-seat-of-the-empire.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551785&type=card",
+    "name": "Otawara, Soaring City",
+    "path": "551785-neo-otawara-soaring-city.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551786&type=card",
+    "name": "Sokenzan, Crucible of Defiance",
+    "path": "551786-neo-sokenzan-crucible-of-defiance.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551787&type=card",
+    "name": "Takenuma, Abandoned Mire",
+    "path": "551787-neo-takenuma-abandoned-mire.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551690&type=card",
+    "name": "Invoke Despair",
+    "path": "551690-neo-invoke-despair.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=551695&type=card",
+    "name": "Satoru Umezawa",
+    "path": "551695-neo-satoru-umezawa.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552965&type=card",
+    "name": "Spirited Companion",
+    "path": "552965-neo-spirited-companion.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552966&type=card",
+    "name": "Enthusiastic Mechanaut",
+    "path": "552966-neo-enthusiastic-mechanaut.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552967&type=card",
+    "name": "Jukai Naturalist",
+    "path": "552967-neo-jukai-naturalist.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552968&type=card",
+    "name": "Silver-Fur Master",
+    "path": "552968-neo-silver-fur-master.png"
+  },
+  {
+    "url": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=552969&type=card",
+    "name": "Secluded Courtyard",
+    "path": "552969-neo-secluded-courtyard.png"
+  }
+]
