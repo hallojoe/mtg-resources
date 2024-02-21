@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "mtg-resources",
+  "version": "1.0.0",
+  "description": "MTG data and images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^8.0.1",
+    "imagemin-jpegtran": "^7.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "node-fetch": "^3.3.2"
+  }
+}

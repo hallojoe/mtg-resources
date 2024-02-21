@@ -1,4 +1,22 @@
 # mtg-resources
+
 MTG data and images.
 
-Maybe this will hit the state of just running one task, and then things are "gathered". Current state is in progress.
+Requires `curl` on target system. Find lates curl releases [here](https://curl.se/docs/releases.html).
+
+Install: `npm install`
+
+To gather data from a set run: `node ./scripts/index.js [set-code, ex. mom, bro or mh2]`
+
+Project structure:
+
+ - data
+   - [set-code]
+     - data
+       - index.json
+       - index.min.json
+      - images
+        - [multiverseid]-[set-code]-[name-slug].png
+ - scripts
+   - index.js [set-code]
+ 
